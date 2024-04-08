@@ -7,8 +7,6 @@ import sendIcon from '../assets/icons/send.png';
 import loadingIcon from '../assets/icons/loading.gif';
 import { apiCall } from '../backend/openAI';
 
-//a
-
 export default function HomeScreen() {
 
   const [messages, setMessages] = useState([]);

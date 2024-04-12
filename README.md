@@ -1,6 +1,6 @@
 # AuroraAI
 
-En este proyecto, se combinó la potencia de las API de OpenAI, incluyendo ChatGPT y DALL·E, con tecnologías como JavaScript, React y Expo para crear una plataforma que redefine la forma en que interactuamos con la inteligencia artificial.
+En este proyecto, se combinó la potencia de las API de OpenAI, incluyendo ChatGPT y DALL·E, con tecnologías como JavaScript, React, Expo y TailWind para crear una plataforma que redefine la forma en que interactuamos con la inteligencia artificial.
 
 ## Características destacadas:
 - **Conversaciones inteligentes**: Con la API de ChatGPT, AuroraAI es capaz de mantener conversaciones naturales y fluidas, respondiendo a tus preguntas y ofreciendo sugerencias de manera inteligente.

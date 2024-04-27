@@ -14,8 +14,6 @@ En este proyecto, se combinó la potencia de las API de OpenAI, incluyendo ChatG
 ## Capturas de la App
 
 
-![alt text](https://r2.easyimg.io/uewvl44oj/1.png)
-
-![alt text](https://r2.easyimg.io/uewvl44oj/2.png)
-
-![alt text](https://r2.easyimg.io/uewvl44oj/3.png)
+![Inicio](https://github.com/njoaco/AuroraAI/assets/162630044/cdb09cc0-0ea9-42c3-8b58-a2488e673fc4)
+![Home](https://github.com/njoaco/AuroraAI/assets/162630044/af5d1675-ad53-48bf-89f1-4110151f4481)
+![Chat](https://github.com/njoaco/AuroraAI/assets/162630044/bddd5327-a4d9-40db-a4a7-075568b1fade)
